@@ -21,7 +21,7 @@ repository               : "aiyuyulikai/aiyuyulikai.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/aiyuyulikai/aiyuyulikai.github.io/blob/master/images/photo.png"
+  avatar           : "images/photo.png"
   name             : "Du Kehao"
   pronouns         : "he"  # example: 
   bio              : "Studing in BMSTU, work in RRI"
