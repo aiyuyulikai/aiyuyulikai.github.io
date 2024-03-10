@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "images/photo.png"
   name             : "Du Kehao"
-  pronouns         : # example: "he"  
-  bio              : "Studing in BMSTU"
+  pronouns         : "he"  # example: 
+  bio              : "Studing in BMSTU, work in RRI"
   location         : "Russia"
-  employer         : "RRI"
+  employer         : "RRI, BMSTU"
   uri              : https://aiyuyulikai.github.io/
   email            : "duhuhaizi@gmail.com" 
 
